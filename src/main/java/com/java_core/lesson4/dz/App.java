@@ -1,4 +1,4 @@
-package com.java_core.lesson4.zd;
+package com.java_core.lesson4.dz;
 
 import javax.swing.*;
 import java.awt.*;
